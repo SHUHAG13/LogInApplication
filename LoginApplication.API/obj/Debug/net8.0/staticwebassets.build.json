@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Fz51tczBdtZxYGqkCoTA5cmnVcW4ZO1WY9my8CeMyRU=",
+  "Source": "LoginApplication.API",
+  "BasePath": "_content/LoginApplication.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
